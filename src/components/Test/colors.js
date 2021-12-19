@@ -1,0 +1,15 @@
+export const colors = [
+  "Cyan",
+  "Crimson",
+  "DarkCyan",
+  "DarkOrchid",
+  "DarkSlateBlue",
+  "DeepPink",
+  "Gold",
+  "LightSalmon",
+  "Lime",
+  "Turquoise",
+  "Aquamarine",
+  "CornflowerBlue",
+  "Cornsilk",
+];
